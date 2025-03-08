@@ -1,7 +1,7 @@
 #include<stdio.h>
 int main()
 {
-    int a,b;//taking input
+    int a,b;// taking input when a>b
     printf("Enter Divisor:");
     scanf("%d",&a);
      printf("Enter Divisor:");
